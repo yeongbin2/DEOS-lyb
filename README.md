@@ -8,5 +8,5 @@
 
 ## 프로젝트 소개
 * 프로젝트 주제 선정
-[(무비요)프로젝트 사업 계획서.xlsx](https://github.com/yeongbin2/DEOS-lyb/files/9977681/default.xlsx)
+* [(무비요)프로젝트 사업 계획서.xlsx](https://github.com/yeongbin2/DEOS-lyb/files/9977681/default.xlsx)
 
